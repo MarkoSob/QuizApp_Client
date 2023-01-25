@@ -1,0 +1,22 @@
+.newDescriptionForm {
+    color: #4271ae;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+@media (max-width: 700px) {
+    .newDescriptionForm {
+        width: 300px;
+    }
+}
+
+.checkBoxItem {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.itemLabel {
+    margin-left: 10px;
+}

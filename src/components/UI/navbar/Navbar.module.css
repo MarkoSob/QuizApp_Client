@@ -1,0 +1,16 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.userBtns {
+    display: none;
+}
+
+.userBtns.active {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+

@@ -1,0 +1,16 @@
+.confirmBtn {
+    width: 100%;
+    padding: 5px 15px;
+    color: #ffffff;
+    font-size: 14px;
+    background-color: #5ea1f9;
+    border: 1px solid #5ea1f9;
+    cursor: pointer;
+    border-radius: 9px;
+}
+
+.confirmBtn:hover {
+    transition-duration: 0.3s;
+    background: #4271ae;
+    border: 1px solid #4271ae;
+}
